@@ -1,0 +1,3 @@
+support highlighting comments which is contained over forteen stars.
+
+chrome browser support
